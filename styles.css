@@ -1,5 +1,12 @@
 body{
-    background: url(images.jpg);
+    background: url(pink.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
+}
+.parallax{
+    background-image: url(entre.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
 }
