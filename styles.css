@@ -11,5 +11,6 @@ body{
     background-size: cover;
 }
 footer{
+    shape-image-threshold: 10px 10px;
     text-align: right;
 }
